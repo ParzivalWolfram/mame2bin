@@ -3,7 +3,7 @@
 Program released under the MIT license, see https://opensource.org/licenses/MIT
 or https://web.archive.org/web/20220726165438/https://opensource.org/licenses/MIT
 
-Usage: mame2bin <input dump> <output binary>
+Usage: `mame2bin <input dump> <output binary>`
 
 this takes the MAME text hex dump format, eg:
 
