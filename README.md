@@ -1,4 +1,4 @@
-mame2bin, by Parzival Wolfram <parzivalwolfram@gmail.com>
+# mame2bin
 
 Program released under the MIT license, see https://opensource.org/licenses/MIT
 or https://web.archive.org/web/20220726165438/https://opensource.org/licenses/MIT
